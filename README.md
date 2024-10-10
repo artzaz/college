@@ -14,7 +14,7 @@ Each folder includes codes from assignments, labs and projects related to that p
 
 The code in this repository involves various technologies and programming languages, including:
 
-- **C / C#**
+- **C / C# / GDScript**
 
 ## How to Use this Repository
 
